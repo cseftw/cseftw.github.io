@@ -3,6 +3,6 @@
  
 [Introduction](./Introduction.md)
 
-## Get In Touch 
+# Get In Touch 
 
  [Contact](./contacts.md)
