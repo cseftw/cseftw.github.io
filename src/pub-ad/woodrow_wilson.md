@@ -21,9 +21,9 @@
 
 Related questions : 
 
-Q - Whether Politics Admn dichotomy was a naive concept . Examine 
-Q - The Politics-Admn-Dichotomy stands rejected . Critically Examine .
-Q - Politics and Admn have reciprocal relation . Explain . 
+Q - Whether Politics Admn dichotomy was a naive concept . Examine <br>
+Q - The Politics-Admn-Dichotomy stands rejected . Critically Examine . <br>
+Q - Politics and Admn have reciprocal relation . Explain . <br>
 Q - The field of Admn is field of business . Comment 
 
 ## About Woodrow Wilson / Context of Wilson's View 
