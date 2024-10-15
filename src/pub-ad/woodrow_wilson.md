@@ -30,4 +30,8 @@ Q - The field of Admn is field of business . Comment
 
 Woodrow Wilson is considered **founding father of PA**. He wrote his <u>seminal essay</u> "The Study of Admn" which was published in 1887 in a political science journal in which he forcefully argued for need for a separate discipline on the basis of Poltics-Admn-Dichotomy concept which ultimately became the beginning point for sepeare discipline of PA . 
 
-Woodrow Wilson was an Administrator , Academecian , Policical Scientist , Leader and Founding Father of discipline of PA .  
+Woodrow Wilson was an Administrator , Academecian , Policical Scientist , Leader and Founding Father of discipline of PA . At very young age of 29-30 , he wrote his seminal essay "The Study of Admn" which became a blueprint for emergence of discipline of P.A . 
+
+His views were influenced by following factors :
+1. Concerns for efficiency and works of Taylor on efficiency . 
+2. Comparitive analysis of Administration : He has open mind and try to learn fron best practices .   
