@@ -51,15 +51,15 @@ Please ensure that your code adheres to the existing coding style and follows be
 <table align="center">
 	<tr >
     <td align="center">
-            <a href="https://github.com/Pyth0nHere">
+            <a href="https://github.com/cseftw">
               <img src="https://avatars.githubusercontent.com/u/88571280?v=4" width="100px" alt=""/><br />
-              <sub><b>Piethon</b></sub>
+              <sub><b>Parth</b></sub>
             </a>
    </td>
       <td align="center">
             <a href="https://github.com/momin-mubash">
               <img src="https://avatars.githubusercontent.com/u/108012519?v=4" width="100px" alt=""/><br />
-              <sub><b>Momin Mubash</b></sub>
+              <sub><b>Shubhman</b></sub>
             </a>
    </td>
   </tr>
@@ -71,12 +71,12 @@ Connect with Us
 If you have any questions, suggestions, or feedback, please feel free to contact us:
 
 - **Project Maintainer: Piethon**
-  - Email: [piethonbughunter69@gmail.com](mailto:piethonbughunter69@gmail.com)
+  - Email: [cseftw@proton.me](mailto:cseftw@proton.me)
   - Twitter: [sudo_uwu](https://twitter.com/sudo_uwu)
   - Instagram: [sudo_uwu](https://www.instagram.com/sudo_uwu)
-  - Linkedin: [Majeed](https://www.linkedin.com/in/majeedmujawar01)
+  - Linkedin: [Parth](https://www.linkedin.com/in/majeedmujawar01)
 - **Momin Mubash**
-  - Twitter: [momin_mubash](https://twitter.com/momin_mubash)
-  - Linkedin: [Momin Mubash](https://www.linkedin.com/in/momin-mubash-97a056263)
+  - Twitter: [cseftw](https://twitter.com/momin_mubash)
+  - Linkedin: [Shubhman](https://www.linkedin.com/in/momin-mubash-97a056263)
 
 Thank you for your interest in the Car Showroom Website project! We hope you find it exciting and contribute to its success.
