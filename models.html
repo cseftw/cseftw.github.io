@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Link to Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+      crossorigin="anonymous"
+    />
+
+    <!-- Link to your custom CSS -->
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- Link to Font Awesome -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+
+    <title>CarXplore - Models</title>
+  </head>
+
+  <body>
+    <!-- NAVBAR STARTS HERE -->
+    <header>
+      <h2>CarXplore</h2>
+      <ul class="head">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="models.html">Models</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </header>
+
+    <!-- MODELS BANNER -->
+    <section class="models-banner">
+      <div class="container py-5 text-center">
+        <h1>Explore Our Car Models</h1>
+        <p class="lead">Find the perfect car that fits your lifestyle and needs</p>
+      </div>
+    </section>
+
+    <!-- CATEGORY FILTER -->
+    <section class="category-filter">
+      <div class="container py-4">
+        <div class="d-flex justify-content-center flex-wrap">
+          <a href="#all" class="btn btn-outline-primary m-2">All Models</a>
+          <a href="#electric" class="btn btn-outline-success m-2" id="electric">Electric</a>
+          <a href="#hybrid" class="btn btn-outline-info m-2" id="hybrid">Hybrid</a>
+          <a href="#luxury" class="btn btn-outline-warning m-2">Luxury</a>
+          <a href="#supercar" class="btn btn-outline-danger m-2" id="supercar">Supercar</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ELECTRIC CARS SECTION -->
+    <section id="electric" class="py-5">
+      <div class="container">
+        <h2 class="text-center mb-4">Electric Vehicles</h2>
+        <div class="row">
+          <!-- Tesla Model Y -->
+          <div class="col-md-4 mb-4" id="tesla">
+            <div class="card h-100">
+              <img src="images/featured2.png" class="card-img-top" alt="Tesla Model Y">
+              <div class="card-body">
+                <h5 class="card-title">Tesla Model Y</h5>
+                <p class="card-text">A mid-size electric SUV with impressive range and performance. Perfect for families looking to go electric.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Range: Up to 330 miles</li>
+                  <li class="list-group-item">0-60 mph: 3.5 seconds</li>
+                  <li class="list-group-item">Price: $8,000</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Electric Vehicle -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured4.png" class="card-img-top" alt="Nissan Leaf">
+              <div class="card-body">
+                <h5 class="card-title">Nissan Leaf</h5>
+                <p class="card-text">An affordable electric vehicle with practical range for city commuting.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Range: Up to 226 miles</li>
+                  <li class="list-group-item">0-60 mph: 7.4 seconds</li>
+                  <li class="list-group-item">Price: $27,800</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Electric Vehicle -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured3.png" class="card-img-top" alt="Ford Mustang Mach-E">
+              <div class="card-body">
+                <h5 class="card-title">Ford Mustang Mach-E</h5>
+                <p class="card-text">An electric SUV with Mustang-inspired design and performance.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Range: Up to 300 miles</li>
+                  <li class="list-group-item">0-60 mph: 3.7 seconds</li>
+                  <li class="list-group-item">Price: $42,895</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- HYBRID CARS SECTION -->
+    <section id="hybrid" class="py-5 bg-light">
+      <div class="container">
+        <h2 class="text-center mb-4">Hybrid Vehicles</h2>
+        <div class="row">
+          <!-- Audi Q5 -->
+          <div class="col-md-4 mb-4" id="audi">
+            <div class="card h-100">
+              <img src="images/featured3.png" class="card-img-top" alt="Audi Q5">
+              <div class="card-body">
+                <h5 class="card-title">Audi Q5</h5>
+                <p class="card-text">A premium hybrid SUV with elegant design, powerful performance and excellent fuel efficiency.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Engine: 2.0L Turbocharged with Electric Motor</li>
+                  <li class="list-group-item">Combined Power: 362 hp</li>
+                  <li class="list-group-item">Price: $69,000</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Hybrid Vehicle -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured4.png" class="card-img-top" alt="Toyota RAV4 Prime">
+              <div class="card-body">
+                <h5 class="card-title">Toyota RAV4 Prime</h5>
+                <p class="card-text">A plug-in hybrid SUV with excellent efficiency and Toyota reliability.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Electric Range: 42 miles</li>
+                  <li class="list-group-item">Combined Power: 302 hp</li>
+                  <li class="list-group-item">Price: $38,350</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Hybrid Vehicle -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured2.png" class="card-img-top" alt="Lexus NX Hybrid">
+              <div class="card-body">
+                <h5 class="card-title">Lexus NX Hybrid</h5>
+                <p class="card-text">A luxury hybrid crossover with refined interior and smooth ride.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Engine: 2.5L with Electric Motors</li>
+                  <li class="list-group-item">Combined Power: 239 hp</li>
+                  <li class="list-group-item">Price: $42,125</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SUPERCAR SECTION -->
+    <section id="supercar" class="py-5">
+      <div class="container">
+        <h2 class="text-center mb-4">Supercars</h2>
+        <div class="row">
+          <!-- Porsche 718 -->
+          <div class="col-md-4 mb-4" id="porsche">
+            <div class="card h-100">
+              <img src="images/featured4.png" class="card-img-top" alt="Porsche 718">
+              <div class="card-body">
+                <h5 class="card-title">Porsche 718</h5>
+                <p class="card-text">A mid-engine sports car that delivers exhilarating performance with iconic Porsche design.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Engine: 4.0L Flat-6</li>
+                  <li class="list-group-item">0-60 mph: 3.2 seconds</li>
+                  <li class="list-group-item">Price: $69,690</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Supercar -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured3.png" class="card-img-top" alt="Ferrari F8 Tributo">
+              <div class="card-body">
+                <h5 class="card-title">Ferrari F8 Tributo</h5>
+                <p class="card-text">A masterpiece of Italian engineering with breath-taking performance.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Engine: 3.9L Twin-Turbo V8</li>
+                  <li class="list-group-item">0-60 mph: 2.9 seconds</li>
+                  <li class="list-group-item">Price: $276,550</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Another Supercar -->
+          <div class="col-md-4 mb-4">
+            <div class="card h-100">
+              <img src="images/featured2.png" class="card-img-top" alt="Lamborghini Huracán">
+              <div class="card-body">
+                <h5 class="card-title">Lamborghini Huracán</h5>
+                <p class="card-text">A striking supercar that combines Italian flair with raw power.</p>
+                <ul class="list-group list-group-flush mb-3">
+                  <li class="list-group-item">Engine: 5.2L V10</li>
+                  <li class="list-group-item">0-60 mph: 2.8 seconds</li>
+                  <li class="list-group-item">Price: $214,866</li>
+                </ul>
+                <a href="#" class="btn btn-primary">View Details</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER STARTS HERE -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="footer-col">
+            <h4>contact</h4>
+            <ul>
+              <li><a href="contact.html#help">get help</a></li>
+              <li><a href="contact.html#test-drive">book a test drive</a></li>
+              <li><a href="contact.html#showroom">nearest showroom</a></li>
+              <li><a href="contact.html#service">service appointment</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>about us</h4>
+            <ul>
+              <li><a href="about.html#faq">FAQ</a></li>
+              <li><a href="about.html#careers">Careers</a></li>
+              <li><a href="about.html#team">our team</a></li>
+              <li><a href="about.html#services">our services</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>Legal</h4>
+            <ul>
+              <li><a href="about.html#cookie">cookie policy</a></li>
+              <li><a href="about.html#privacy">Privacy Policy</a></li>
+              <li><a href="about.html#legal">Legal Disclaimer/Imprint</a></li>
+              <li><a href="contact.html#service">book a service appointment</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-col">
+            <h4>follow us</h4>
+            <div class="social-links">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- linking JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa"
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
